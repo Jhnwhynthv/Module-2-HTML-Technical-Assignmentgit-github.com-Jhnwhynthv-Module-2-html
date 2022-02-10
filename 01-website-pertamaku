@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="widht=device-widht, initial-scale=1.0" />
+    </head>
+
+    <body>
+        <h1>Website Pertamaku</h1>
+        <p>Ini adalah pertama kali saya membuat sebuah website menggunakan HTML</p>
+        <a href="https://google.com">tekan ini untuk pergi ke google</a>
+    </body>
+</html>

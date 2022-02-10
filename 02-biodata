@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="widht=device-widht, initial-scale=1.0" />
+    </head>
+
+    <body>
+        <h1>Website Pertamaku</h1>
+        <p>Ini adalah pertama kali saya membuat sebuah website menggunakan HTML</p>
+        <a href="https://google.com">tekan ini untuk pergi ke google</a>
+        
+
+    <br>
+        <h1>profilku</h1>
+    </br>
+
+    <img 
+    src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ1TxUVFr5VdhgwqzVv_KqlNhRIdZp-F86_zbh0DSPUQJNHly3V"
+    alt="fotoku"
+    width="200px"
+    height="200px"
+    />
+
+        <ul>
+        <li>Nama     : Jihan Wahyuni</li>
+        <li>email    : jihanwahyuni65@gmail.com</li>
+        <li>daerah   : Sumbawa</li>
+        <li>hobi</li>
+        <ol>
+            <li>Menyanyi</li>
+            <li>Mendengarkan musik</li>
+            <li>Bermain Game</li>
+        </ol>
+        </ul>
+
+
+
+    </body>
+</html>
